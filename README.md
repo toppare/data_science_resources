@@ -1,7 +1,7 @@
-# data_science_resources
+# Data Science Resources
 
 ## Data Visualization
-- [art of effective visualization](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
+[art of effective visualization](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 
 
 ## Feature Engineering
