@@ -19,6 +19,7 @@
 
 ## Interview Preparation
 [109 Commonly Asked Data Science Interview Questions](https://www.springboard.com/blog/data-science-interview-questions/)
+
 [interview questions - Quora](https://datascienceinterview.quora.com/)
 
 
