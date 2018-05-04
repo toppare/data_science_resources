@@ -33,3 +33,6 @@
 [Understanding Feature Engineering (Part 3) — Traditional Methods for Text Data](https://towardsdatascience.com/understanding-feature-engineering-part-3-traditional-methods-for-text-data-f6f7d70acd41)
 
 [Feature Engineering: Data scientist's Secret Sauce !](https://www.datasciencecentral.com/profiles/blogs/feature-engineering-data-scientist-s-secret-sauce-1)
+
+### Metrics
+[ROC Curve](http://www.navan.name/roc/)
