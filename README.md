@@ -11,6 +11,12 @@
 
 ## Probability & Statistics
 [seeing theory](https://students.brown.edu/seeing-theory/index.html): visualization of statistical concepts
+  - [basic probability](https://students.brown.edu/seeing-theory/basic-probability/)
+  - [compound probability](https://students.brown.edu/seeing-theory/compound-probability/)
+  - [probability distributions](https://students.brown.edu/seeing-theory/probability-distributions/)
+  - [frequentist inference](https://students.brown.edu/seeing-theory/frequentist-inference/)
+  - [bayesian inference](https://students.brown.edu/seeing-theory/bayesian-inference/)
+  - [regression analysis](https://students.brown.edu/seeing-theory/regression-analysis/)
 
 
 ## Titles/Roles
