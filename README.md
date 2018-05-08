@@ -26,6 +26,9 @@
 [PostgreSQL vs. pandas — how to balance tasks between server and client side
 ](https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks-between-server-and-client-side-9e2f6c95677)
 
+## A/B Testing
+[Online Controlled Experiments by Ronny Kohavi](https://www.youtube.com/watch?v=ZfhQ-fIg4EU)
+
 
 ## Machine Learning
 
