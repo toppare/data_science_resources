@@ -28,9 +28,11 @@
 
 [interview questions - Quora](https://datascienceinterview.quora.com/)
 
-## SQL
+## SQL / Databases
 [PostgreSQL vs. pandas — how to balance tasks between server and client side
 ](https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks-between-server-and-client-side-9e2f6c95677)
+
+[Amazon Redshift - Fundamentals](https://s3-eu-west-1.amazonaws.com/cdn.jefclaes.be/amazon-redshift-fundamentals/aws-redshift-fundamentals.html)
 
 ## A/B Testing
 [Online Controlled Experiments by Ronny Kohavi](https://www.youtube.com/watch?v=ZfhQ-fIg4EU)
