@@ -28,6 +28,7 @@
 
 ## A/B Testing
 [Online Controlled Experiments by Ronny Kohavi](https://www.youtube.com/watch?v=ZfhQ-fIg4EU)
+[What is a one tailed vs. a two tailed test?](https://www.quora.com/What-is-a-one-tailed-vs-a-two-tailed-test/answer/Andrew-Cary-7)
 
 
 ## Machine Learning
