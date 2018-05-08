@@ -22,6 +22,10 @@
 
 [interview questions - Quora](https://datascienceinterview.quora.com/)
 
+## SQL
+[PostgreSQL vs. pandas — how to balance tasks between server and client side
+](https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks-between-server-and-client-side-9e2f6c95677)
+
 
 ## Machine Learning
 
@@ -37,3 +41,5 @@
 
 ### Metrics
 [ROC Curve](http://www.navan.name/roc/)
+
+
