@@ -18,6 +18,8 @@
   - [bayesian inference](https://students.brown.edu/seeing-theory/bayesian-inference/)
   - [regression analysis](https://students.brown.edu/seeing-theory/regression-analysis/)
 
+## Data Wrangling
+[Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_181)
 
 ## Titles/Roles
 [Data Engineer vs Data Scientist](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
