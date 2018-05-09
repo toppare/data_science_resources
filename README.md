@@ -1,4 +1,5 @@
 # Data Science Resources
+Useful data science resources all consumed and picked by me.
 
 
 ## Required Skills
