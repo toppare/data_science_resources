@@ -18,6 +18,8 @@ Useful data science resources, mostly articles.
   - [frequentist inference](https://students.brown.edu/seeing-theory/frequentist-inference/)
   - [bayesian inference](https://students.brown.edu/seeing-theory/bayesian-inference/)
   - [regression analysis](https://students.brown.edu/seeing-theory/regression-analysis/)
+  
+[playlist by Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists): covers almost everything
 
 ## Data Wrangling
 [Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_181)
