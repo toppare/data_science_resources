@@ -1,6 +1,9 @@
 # Data Science Resources
 Useful data science resources, mostly articles.
 
+## What Data Science is About
+[Data Science for Startups: Introduction](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec)
+
 
 ## Required Skills
 [Everything You REALLY Need to Know to Become a Data Scientist](https://medium.springboard.com/everything-you-really-need-to-know-to-become-a-data-scientist-ca42f238486d)
