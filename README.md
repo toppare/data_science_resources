@@ -24,6 +24,8 @@ Useful data science resources, mostly articles.
 ## Data Wrangling
 [Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_181)
 
+[Best Practices with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
+
 ## Titles/Roles
 [Data Engineer vs Data Scientist](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 
