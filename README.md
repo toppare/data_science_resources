@@ -8,6 +8,8 @@ Useful data science resources, mostly articles.
 ## Required Skills
 [Everything You REALLY Need to Know to Become a Data Scientist](https://medium.springboard.com/everything-you-really-need-to-know-to-become-a-data-scientist-ca42f238486d)
 
+[One Analyst’s Guide for going from Good to Great](https://blog.fishtownanalytics.com/one-analysts-guide-for-going-from-good-to-great-6697e67e37d9)
+
 
 ## Data Visualization
 [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
