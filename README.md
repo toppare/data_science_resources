@@ -29,6 +29,8 @@ Useful data science resources, mostly articles.
 ## Data Wrangling
 [Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_181)
 
+[How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+
 [Best Practices with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
 
 ## Programming
