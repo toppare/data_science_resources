@@ -31,6 +31,8 @@ Useful data science resources, mostly articles.
 
 [How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
 
+[Handling Missing Values](https://www.kaggle.com/dansbecker/handling-missing-values)
+
 [Best Practices with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
 
 ## Programming
