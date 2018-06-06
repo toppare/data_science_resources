@@ -2,7 +2,7 @@
 Useful data science resources, mostly articles.
 
 ## What Data Science is About
-[Data Science for Startups: Introduction](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec)
+[Data Science for Startups: Introduction](https://towardsdatascience.com/data-science-for-startups-introduction-80d022a18aec) ---> [link](https://bgweber.github.io/) for all articles.
 
 
 ## Required Skills
