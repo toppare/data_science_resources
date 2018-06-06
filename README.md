@@ -74,4 +74,7 @@ Useful data science resources, mostly articles.
 ### Metrics
 [ROC Curve](http://www.navan.name/roc/)
 
+# Other Resources
+
+[Data Elixir Newsletter](https://dataelixir.com/)
 
