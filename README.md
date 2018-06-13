@@ -61,6 +61,8 @@ Useful data science resources, mostly articles.
 
 ## Machine Learning
 
+[A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
 ### Feature Engineering
 
 [Understanding Feature Engineering (Part 1) — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
@@ -74,7 +76,17 @@ Useful data science resources, mostly articles.
 ### Metrics
 [ROC Curve](http://www.navan.name/roc/)
 
-# Other Resources
+# Other Resources 
 
 [Data Elixir Newsletter](https://dataelixir.com/)
+
+# Interesting Libraries & Repositories
+[auto-sklearn](auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator:
+): auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[Feature Tools](https://docs.featuretools.com/): Featuretools is a framework to perform automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning.
+
+
 
