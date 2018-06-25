@@ -85,8 +85,7 @@ Useful data science resources, mostly articles.
 [Data Machina Newsletter](https://www.getrevue.co/profile/datamachina)
 
 # Interesting Libraries & Repositories
-[auto-sklearn](auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator:
-): auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
+[auto-sklearn](https://automl.github.io/auto-sklearn/stable/): auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
