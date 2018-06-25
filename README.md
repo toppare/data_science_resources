@@ -82,6 +82,8 @@ Useful data science resources, mostly articles.
 
 [Data Elixir Newsletter](https://dataelixir.com/)
 
+[Data Machina Newsletter](https://www.getrevue.co/profile/datamachina)
+
 # Interesting Libraries & Repositories
 [auto-sklearn](auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator:
 ): auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
