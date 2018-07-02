@@ -91,5 +91,15 @@ Useful data science resources, mostly articles.
 
 [Feature Tools](https://docs.featuretools.com/): Featuretools is a framework to perform automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning.
 
+# Finding Datasets
+[data.world](https://data.world/)
 
+[/r/datasets](https://www.reddit.com/r/datasets/)
 
+[Kaggle](https://www.kaggle.com/datasets)
+
+[openml](https://www.openml.org/search?type=data)
+
+[figure eight](https://www.figure-eight.com/data-for-everyone/)
+
+[another github repo](https://github.com/NirantK/awesome-project-ideas)
