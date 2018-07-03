@@ -47,6 +47,8 @@ Useful data science resources, mostly articles.
 
 [interview questions - Quora](https://datascienceinterview.quora.com/)
 
+[real life questions](http://nadbordrozd.github.io/interviews/)
+
 ## SQL / Databases
 [PostgreSQL vs. pandas — how to balance tasks between server and client side
 ](https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks-between-server-and-client-side-9e2f6c95677)
