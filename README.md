@@ -93,7 +93,10 @@ Useful data science resources, mostly articles.
 
 [Feature Tools](https://docs.featuretools.com/): Featuretools is a framework to perform automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning.
 
-# Finding Datasets
+# Springboard Related
+resources to share with springboard students
+
+## Finding Datasets
 [data.world](https://data.world/)
 
 [/r/datasets](https://www.reddit.com/r/datasets/)
@@ -105,3 +108,12 @@ Useful data science resources, mostly articles.
 [figure eight](https://www.figure-eight.com/data-for-everyone/)
 
 [another github repo](https://github.com/NirantK/awesome-project-ideas)
+
+## Past Projects (good ones)
+[cancer classification](https://medium.com/@liudj2008/how-data-science-enables-early-cancer-diagnosis-6221ae841ae3)
+
+[movie recommender](https://github.com/rounakbanik/movies)
+
+[kaggle airbnb competition](https://github.com/rounakbanik/airbnb)
+
+
