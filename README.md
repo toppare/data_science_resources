@@ -97,6 +97,8 @@ Useful data science resources, mostly articles.
 
 [ExpAn](https://github.com/zalando/expan): statistical analysis of A/B tests by Zalando
 
+[physt](https://github.com/janpipek/physt): P(i/y)thon h(i/y)stograms
+
 
 
 # Springboard Related
