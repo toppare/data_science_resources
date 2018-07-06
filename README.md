@@ -93,6 +93,12 @@ Useful data science resources, mostly articles.
 
 [Feature Tools](https://docs.featuretools.com/): Featuretools is a framework to perform automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning.
 
+[ctparse - Parse natural language time expressions](https://github.com/comtravo/ctparse)
+
+[ExpAn - statistical analysis of A/B tests](https://github.com/zalando/expan)
+
+
+
 # Springboard Related
 resources to share with springboard students
 
