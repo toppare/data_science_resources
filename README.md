@@ -77,6 +77,8 @@ Useful data science resources, mostly articles.
 
 [Feature Engineering: Data scientist's Secret Sauce !](https://www.datasciencecentral.com/profiles/blogs/feature-engineering-data-scientist-s-secret-sauce-1)
 
+[Dimensionality Reduction Animation](https://projector.tensorflow.org/)
+
 ### Metrics
 [ROC Curve](http://www.navan.name/roc/)
 
