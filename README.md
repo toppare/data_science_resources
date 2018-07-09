@@ -29,9 +29,9 @@ Useful data science resources, mostly articles.
 ## Data Wrangling
 [Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_181)
 
-[Methods for handling missing values](https://gallery.azure.ai/Experiment/Methods-for-handling-missing-values-1)
+[Methods for handling missing values](https://gallery.azure.ai/Experiment/Methods-for-handling-missing-values-1): good aggregation of all methods together
 
-[How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4): good aggregation of all methods together
+[How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
 
 [Handling Missing Values](https://www.kaggle.com/dansbecker/handling-missing-values)
 
