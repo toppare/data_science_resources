@@ -27,6 +27,8 @@ Useful data science resources, mostly articles.
 [playlist by Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists): covers almost everything
 
 ## Data Wrangling
+[Pandas DataFrame indexing](https://brohrer.github.io/dataframe_indexing.html)
+
 [Visualizing Pandas' Pivoting and Reshaping Functions](https://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/?utm_campaign=Data_Elixir&utm_medium=email&utm_source=Data_Elixir_181)
 
 [Methods for handling missing values](https://gallery.azure.ai/Experiment/Methods-for-handling-missing-values-1): good aggregation of all methods together
