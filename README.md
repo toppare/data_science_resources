@@ -132,4 +132,6 @@ resources to share with springboard students
 
 [kaggle airbnb competition](https://github.com/rounakbanik/airbnb)
 
+[Early Corn Yields Prediction Using Satellite Images](https://tpjoe.gitlab.io/post/cropprediction/)
+
 
