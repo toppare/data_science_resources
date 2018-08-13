@@ -97,7 +97,7 @@ Useful data science resources, mostly articles.
 # Interesting Libraries & Repositories
 [auto-sklearn](https://automl.github.io/auto-sklearn/stable/): auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
 
-[Prophet: Time Series Forecasting](http://facebook.github.io/prophet/)
+[Prophet](http://facebook.github.io/prophet/): Time Series Forecasting
 
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
