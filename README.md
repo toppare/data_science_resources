@@ -97,6 +97,8 @@ Useful data science resources, mostly articles.
 # Interesting Libraries & Repositories
 [auto-sklearn](https://automl.github.io/auto-sklearn/stable/): auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
 
+[Prophet: Time Series Forecasting](http://facebook.github.io/prophet/)
+
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Feature Tools](https://docs.featuretools.com/): Featuretools is a framework to perform automated feature engineering. It excels at transforming transactional and relational datasets into feature matrices for machine learning.
