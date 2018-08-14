@@ -73,6 +73,9 @@ Useful data science resources, mostly articles.
 
 [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
 
+### Algorithms
+[How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
+
 ### Feature Engineering
 
 [Understanding Feature Engineering (Part 1) — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
