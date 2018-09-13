@@ -73,6 +73,8 @@ Useful data science resources, mostly articles.
 
 [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
 
+[Kaggle Machine Learning Tutorial](https://www.kaggle.com/learn/machine-learning)
+
 ### Algorithms
 [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 
