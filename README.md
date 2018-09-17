@@ -143,4 +143,6 @@ resources to share with springboard students
 
 [Early Corn Yields Prediction Using Satellite Images](https://tpjoe.gitlab.io/post/cropprediction/)
 
+[Predicting Building Permit Issuance Times](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/ProjectReport_BuildingPermit.pdf)
+
 
