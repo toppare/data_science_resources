@@ -132,6 +132,8 @@ resources to share with springboard students
 
 [another github repo](https://github.com/NirantK/awesome-project-ideas)
 
+[a list gathered by gengo.ai](https://gengo.ai/datasets/the-50-best-free-datasets-for-machine-learning/)
+
 ## Past Projects (good ones)
 [cancer classification](https://medium.com/@liudj2008/how-data-science-enables-early-cancer-diagnosis-6221ae841ae3)
 
