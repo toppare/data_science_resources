@@ -146,3 +146,5 @@ resources to share with springboard students
 [Predicting Building Permit Issuance Times](https://github.com/aparnack/data_science/blob/master/projects/springboard_capstone/documents/ProjectReport_BuildingPermit.pdf)
 
 [Predicting Player Rating by Player Position for European Football](https://github.com/ruhama-ahale/soccer_project/blob/master/Capstone_Final_Report/Capstone_Final_Report_Soccer_Data.ipynb)
+
+[Predicting Opioid Overdose Mortality Rate](https://danielhanbitlee.github.io/opioid_mortality/#top_ten_counties_with_highest_mortality_rate_caused_by_opioid_overdose_in_2016)
