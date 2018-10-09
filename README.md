@@ -69,6 +69,8 @@ Useful data science resources, mostly articles.
 
 [Rules of ML](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 
+[ML Glossary](https://semanti.ca/blog/?glossary-of-machine-learning-terms)
+
 [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
 [How to handle Imbalanced Classification Problems in machine learning?](https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/)
