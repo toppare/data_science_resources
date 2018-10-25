@@ -116,6 +116,8 @@ Useful data science resources, mostly articles.
 
 [physt](https://github.com/janpipek/physt): P(i/y)thon h(i/y)stograms
 
+[firefly](https://firefly-python.readthedocs.io/en/latest/#): function as a service, minimal library to deploy ML as a RESTful API
+
 
 
 # Springboard Related
