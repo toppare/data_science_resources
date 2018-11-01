@@ -118,7 +118,10 @@ Useful data science resources, mostly articles.
 
 [firefly](https://firefly-python.readthedocs.io/en/latest/#): function as a service, minimal library to deploy ML as a RESTful API
 
-[Python Library for Model Interpretation/Explanations](https://github.com/datascienceinc/Skater)
+[Skater](https://github.com/datascienceinc/Skater): Python Library for Model Interpretation/Explanations
+
+[textgenrnn](https://github.com/minimaxir/textgenrnn): Train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
+
 
 
 
