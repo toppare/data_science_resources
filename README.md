@@ -118,6 +118,8 @@ Useful data science resources, mostly articles.
 
 [firefly](https://firefly-python.readthedocs.io/en/latest/#): function as a service, minimal library to deploy ML as a RESTful API
 
+[Python Library for Model Interpretation/Explanations](https://github.com/datascienceinc/Skater)
+
 
 
 # Springboard Related
@@ -152,3 +154,5 @@ resources to share with springboard students
 [Predicting Player Rating by Player Position for European Football](https://github.com/ruhama-ahale/soccer_project/blob/master/Capstone_Final_Report/Capstone_Final_Report_Soccer_Data.ipynb)
 
 [Predicting Opioid Overdose Mortality Rate](https://danielhanbitlee.github.io/opioid_mortality/#top_ten_counties_with_highest_mortality_rate_caused_by_opioid_overdose_in_2016)
+
+[Topic-Modeling with /r/PersonalFinance](http://nbviewer.jupyter.org/github/nysportsfan/Personal_Finance_Subreddit/blob/da26f6119207ab8dc01789609d1875d7d17b4c42/05_pf_final_report.ipynb)
