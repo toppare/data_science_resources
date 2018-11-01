@@ -92,6 +92,11 @@ Useful data science resources, mostly articles.
 
 [Dimensionality Reduction Animation](https://projector.tensorflow.org/)
 
+### Interpretability
+[Explainable Artificial Intelligence Part-1](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
+
+[Explainable Artificial Intelligence Part-2](https://towardsdatascience.com/explainable-artificial-intelligence-part-2-model-interpretation-strategies-75d4afa6b739?source=user_profile---------0---------------------)
+
 ### Metrics
 [ROC Curve](http://www.navan.name/roc/)
 
