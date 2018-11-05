@@ -100,6 +100,10 @@ Useful data science resources, mostly articles.
 ### Metrics
 [ROC Curve](http://www.navan.name/roc/)
 
+
+### Model Selection
+[How to choose a machine learning model](https://brohrer.github.io/how_modeling_works_1.html): 5 parts post from [Brandon Rohrer](https://twitter.com/_brohrer_). [part2](https://brohrer.github.io/how_modeling_works_2.html), [part3](https://brohrer.github.io/how_modeling_works_3.html), [part4](https://brohrer.github.io/how_modeling_works_4.html), [part5](https://brohrer.github.io/how_modeling_works_5.html)
+
 # Other Resources 
 
 [Data Elixir Newsletter](https://dataelixir.com/)
