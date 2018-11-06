@@ -171,3 +171,5 @@ resources to share with springboard students
 [Predicting Opioid Overdose Mortality Rate](https://danielhanbitlee.github.io/opioid_mortality/#top_ten_counties_with_highest_mortality_rate_caused_by_opioid_overdose_in_2016)
 
 [Topic-Modeling with /r/PersonalFinance](http://nbviewer.jupyter.org/github/nysportsfan/Personal_Finance_Subreddit/blob/da26f6119207ab8dc01789609d1875d7d17b4c42/05_pf_final_report.ipynb)
+
+[Toxic Comment Classification](https://github.com/lianneYL/DataScience/blob/master/Capstone_Project2/Capstone%20Project%20-%20Text%20Classification.ipynb)
