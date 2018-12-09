@@ -45,7 +45,7 @@ Useful data science resources, mostly articles.
 ## Titles/Roles
 [Data Engineer vs Data Scientist](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 
-[Data scientist archetypes]https://brohrer.github.io/data_science_archetypes.html
+[Data scientist archetypes](https://brohrer.github.io/data_science_archetypes.html)
 
 
 ## Interview Preparation
