@@ -82,6 +82,8 @@ Useful data science resources, mostly articles.
 ### Algorithms
 [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 
+Boosting vs Bagging: [Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) & [Bagging](https://www.youtube.com/watch?v=2Mg8QD0F1dQ)
+
 ### Feature Engineering
 
 [Understanding Feature Engineering (Part 1) — Continuous Numeric Data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
