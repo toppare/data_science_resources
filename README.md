@@ -141,7 +141,7 @@ Boosting vs Bagging: [Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) & [
 
 [textgenrnn](https://github.com/minimaxir/textgenrnn): Train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 
-[LIME](https://github.com/marcotcr/lime): Lime: Explaining the predictions of any machine learning classifier
+[LIME](https://github.com/marcotcr/lime): Explaining the predictions of any machine learning classifier
 
 
 
