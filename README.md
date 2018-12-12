@@ -14,6 +14,8 @@ Useful data science resources, mostly articles.
 ## Data Visualization
 [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 
+[Effective Visualization of Multi-Dimensional Data — A Hands-on Approach](https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8)
+
 
 ## Probability & Statistics
 [seeing theory](https://students.brown.edu/seeing-theory/index.html): visualization of statistical concepts
