@@ -150,15 +150,14 @@ Boosting vs Bagging: [Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) & [
 [LIME](https://github.com/marcotcr/lime): Explaining the predictions of any machine learning classifier
 
 
-
-
-
 # Springboard Related
 resources to share with springboard students
 
 ## Finding Datasets
 
 [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+
+[Quandl](https://www.quandl.com/): Financial, Economic and Alternative data.
 
 [data.world](https://data.world/)
 
