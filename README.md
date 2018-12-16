@@ -59,6 +59,8 @@ Useful data science resources, mostly articles.
 
 [40 Questions on Probability for data science](https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-probability-for-all-aspiring-data-scientists/)
 
+[Data Science Question Answer](https://github.com/ShuaiW/data-science-question-answer)
+
 ## SQL / Databases
 [PostgreSQL vs. pandas — how to balance tasks between server and client side
 ](https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks-between-server-and-client-side-9e2f6c95677)
