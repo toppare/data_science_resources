@@ -157,6 +157,9 @@ Boosting vs Bagging: [Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) & [
 resources to share with springboard students
 
 ## Finding Datasets
+
+[Google Dataset Search](https://toolbox.google.com/datasetsearch)
+
 [data.world](https://data.world/)
 
 [/r/datasets](https://www.reddit.com/r/datasets/)
