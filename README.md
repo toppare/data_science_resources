@@ -61,6 +61,10 @@ Useful data science resources, mostly articles.
 
 [Data Science Question Answer](https://github.com/ShuaiW/data-science-question-answer)
 
+[41 Essential Machine Learning Interview Questions](https://www.springboard.com/blog/machine-learning-interview-questions/)
+
+
+
 ## SQL / Databases
 [PostgreSQL vs. pandas — how to balance tasks between server and client side
 ](https://medium.com/carwow-product-engineering/sql-vs-pandas-how-to-balance-tasks-between-server-and-client-side-9e2f6c95677)
