@@ -149,6 +149,8 @@ Boosting vs Bagging: [Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) & [
 
 [LIME](https://github.com/marcotcr/lime): Explaining the predictions of any machine learning classifier
 
+[skopt (scikit-optimize)](https://github.com/scikit-optimize/scikit-optimize): library for optimization (hyperparameter optimization for example)
+
 
 # Springboard Related
 resources to share with springboard students
