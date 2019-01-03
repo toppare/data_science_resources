@@ -74,9 +74,13 @@ Useful data science resources, mostly articles.
 [Amazon Redshift - Fundamentals](https://s3-eu-west-1.amazonaws.com/cdn.jefclaes.be/amazon-redshift-fundamentals/aws-redshift-fundamentals.html)
 
 ## A/B Testing
+[exp-platform](https://exp-platform.com/): probably best resource on the topic. Also read every Quora answer given by [https://www.quora.com/profile/Ronny-Kohavi](Ronny Kohavi)
+
 [Online Controlled Experiments by Ronny Kohavi](https://www.youtube.com/watch?v=ZfhQ-fIg4EU)
 
 [What is a one tailed vs. a two tailed test?](https://www.quora.com/What-is-a-one-tailed-vs-a-two-tailed-test/answer/Andrew-Cary-7)
+
+
 
 
 ## Machine Learning
