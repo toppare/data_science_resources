@@ -44,6 +44,8 @@ Useful data science resources, mostly articles.
 ## Programming
 [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
 
+[Data scientists, the only useful code is production code](https://thuijskens.github.io/2018/11/13/useful-code-is-production-code/)
+
 ## Titles/Roles
 [Data Engineer vs Data Scientist](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 
