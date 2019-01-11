@@ -157,6 +157,7 @@ Boosting vs Bagging: [Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) & [
 
 [skopt (scikit-optimize)](https://github.com/scikit-optimize/scikit-optimize): library for optimization (hyperparameter optimization for example)
 
+[pyod](https://github.com/yzhao062/pyod): A Python Toolkit for Scalable Outlier Detection (Anomaly Detection)
 
 # Springboard Related
 resources to share with springboard students
