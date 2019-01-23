@@ -47,6 +47,8 @@ Useful data science resources, mostly articles.
 
 [Data scientists, the only useful code is production code](https://thuijskens.github.io/2018/11/13/useful-code-is-production-code/)
 
+[Git and Github Tutorial](https://www.rstudio.com/resources/videos/happy-git-and-gihub-for-the-user-tutorial/)
+
 ## Titles/Roles
 [Data Engineer vs Data Scientist](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 
