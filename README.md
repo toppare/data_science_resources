@@ -56,6 +56,8 @@ Useful data science resources, mostly articles.
 
 [The death of data scientist](https://medium.com/analytics-and-data/the-death-of-data-scientists-2d0d3289fba5)
 
+[Analytics Organization](https://medium.com/analytics-and-data/what-should-be-the-analytics-organization-structure-a8b54d5ff1d1)
+
 
 ## Interview Preparation
 [109 Commonly Asked Data Science Interview Questions](https://www.springboard.com/blog/data-science-interview-questions/)
