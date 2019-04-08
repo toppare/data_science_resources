@@ -49,10 +49,12 @@ Useful data science resources, mostly articles.
 
 [Git and Github Tutorial](https://www.rstudio.com/resources/videos/happy-git-and-gihub-for-the-user-tutorial/)
 
-## Titles/Roles
+## Organization & Roles
 [Data Engineer vs Data Scientist](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 
 [Data scientist archetypes](https://brohrer.github.io/data_science_archetypes.html)
+
+[The death of data scientist](https://medium.com/analytics-and-data/the-death-of-data-scientists-2d0d3289fba5)
 
 
 ## Interview Preparation
