@@ -42,6 +42,15 @@ Useful data science resources, mostly articles.
 
 [Best Practices with Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
 
+## Data Discovery
+[Spotify - Lexikon](https://labs.spotify.com/2020/02/27/how-we-improved-data-discovery-for-data-scientists-at-spotify/)
+
+[Linkedin - DataHub](https://engineering.linkedin.com/blog/2019/data-hub)
+
+[Lyft - Amundsen](https://github.com/lyft/amundsen)
+
+[Netflix - Metacat](https://github.com/Netflix/metacat)
+
 ## Programming
 [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
 
