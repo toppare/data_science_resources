@@ -149,6 +149,7 @@ Boosting vs Bagging: [Boosting](https://www.youtube.com/watch?v=GM3CDQfQ4sw) & [
 [Data Machina Newsletter](https://www.getrevue.co/profile/datamachina)
 
 # Interesting Libraries & Repositories
+[ppscore](https://github.com/8080labs/ppscore#data-preprocessing): Predictive Power Score (PPS) in Python
 [auto-sklearn](https://automl.github.io/auto-sklearn/stable/): auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
 
 [Prophet](http://facebook.github.io/prophet/): Time Series Forecasting
